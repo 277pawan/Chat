@@ -1,0 +1,15 @@
+.message{
+    padding: 4px;
+    margin:2px;
+    background-color:rgb(190, 190, 190);
+    border-radius: 4px;
+    font-weight: 700;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
